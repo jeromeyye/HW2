@@ -1,2 +1,3 @@
 # HW2-Antra
-<img width="627" alt="image" src="https://github.com/user-attachments/assets/d010e744-ebe6-4bc7-a3e8-30b26442e433">
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/624ab496-686e-4e32-807c-92bef10ddb8f">
+
