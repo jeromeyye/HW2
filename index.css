@@ -35,7 +35,7 @@
 }
 .action-row{
     display: flex;
-    max-width: 440px;
+    max-width: 430px;
     justify-content: space-between;
     margin-left: 12px;
 }
